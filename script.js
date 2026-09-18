@@ -117,4 +117,8 @@ function mostraResultado(){
     caixaAlternativas.textContent = ""; 
 }
 
+function aleatorio (lista) {
+ cont posicao = mathfoor(matradom) ()*lista.length);
+ return lista[posicao]
+}
 mostraPergunta();
